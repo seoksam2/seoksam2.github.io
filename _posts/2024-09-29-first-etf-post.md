@@ -1,5 +1,5 @@
 ---
-title: "AI 시대 전력 인프라 투자"
+title: "[Stock] AI 시대 전력 인프라 투자"
 excerpt: "GRID+URA+XLU+NUCL ETF 포트폴리오 전략"
 categories:
   - Stock
